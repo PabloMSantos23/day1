@@ -1,0 +1,1 @@
+file2 (entega 19) segunda tentativa depois de / git add dir2
